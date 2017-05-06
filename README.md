@@ -1,4 +1,5 @@
-# JapaneseGO_20170506_final已实现功能
+# JapaneseGO_20170506_final
+### 已实现功能
 - 查单词
 - 五十音画板
 - 课文学习
